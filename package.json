@@ -1,17 +1,22 @@
 {
   "name": "portfolio-new",
+  "type": "module",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "node gh-pages-deploy.js"
   },
   "dependencies": {
     "cli": "^1.0.1",
+    "execa": "^6.1.0",
+    "fs": "^0.0.1-security",
     "vue": "^3.2.33",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
+    "execa": "latest",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "less": "^4.0.0",
