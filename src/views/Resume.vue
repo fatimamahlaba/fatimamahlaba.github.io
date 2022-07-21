@@ -23,6 +23,11 @@
    <div class="job-date">2019 - Present</div>
    <div class="job-description">Director</div>
   </div>
+   <div class="job-box">
+   <div class="job-title">Cornerstone Institute</div>
+   <div class="job-date">20 June 2022 - 20 July 2022</div>
+   <div class="job-description">Internship</div>
+  </div>
 </div>
 <div class="education">
   <div class="work-img"> 
