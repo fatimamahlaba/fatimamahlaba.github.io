@@ -9,19 +9,19 @@
    </div>
     <h1 class="work-title">Work Experience</h1>
    <div class="job-box">
-   <div class="job-title">Afriquezeen</div>
-   <div class="job-date"> 2014 - 2015</div>
-   <div class="job-description">Cashier</div>
-  </div>
-   <div class="job-box">
-   <div class="job-title">Afriquezeen</div>
-   <div class="job-date">2015 - 2019</div>
-   <div class="job-description">Manager</div>
-  </div>
-   <div class="job-box">
-   <div class="job-title">Afriquezeen</div>
-   <div class="job-date">2019 - Present</div>
+   <div class="job-title">Afriquezeen Restuarant</div>
+   <div class="job-date"> 2019 - Present</div><br>
    <div class="job-description">Director</div>
+  </div>
+   <div class="job-box">
+   <div class="job-title">Life Choices</div>
+   <div class="job-date">20 September 2021 - Present</div>
+   <div class="job-description">Internship</div>
+  </div>
+   <div class="job-box">
+   <div class="job-title">Cornerstone Institute</div>
+   <div class="job-date">20 June 2022 - 20 July 2022 (Contract)</div>
+   <div class="job-description">Internship</div>
   </div>
 </div>
 <div class="education">
